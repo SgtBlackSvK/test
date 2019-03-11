@@ -1,1 +1,1 @@
-eyzalts start_red.bat
+eyzalts start_red.js
