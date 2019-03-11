@@ -1,1 +1,1 @@
-eyzalts app.bat
+eyzalts start_red.bat
