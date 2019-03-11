@@ -1,1 +1,1 @@
-eyzalts app.js
+eyzalts app.bat
